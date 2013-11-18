@@ -1,5 +1,6 @@
 require "reformal_turbolinks/version"
 
 module ReformalTurbolinks
-  # Your code goes here...
+  class Engine < Rails::Engine
+  end
 end

@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = ReformalTurbolinks::VERSION
   spec.authors       = ["Sidelnikov Stanislav"]
   spec.email         = ["stan@eco-nr.ru"]
-  spec.description   = %q{TODO: Write a gem description}
-  spec.summary       = %q{TODO: Write a gem summary}
+  spec.description   = %q{Write a gem description}
+  spec.summary       = %q{Write a gem summary}
   spec.homepage      = ""
   spec.license       = "MIT"
 
