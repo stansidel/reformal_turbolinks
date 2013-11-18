@@ -8,9 +8,9 @@ Gem::Specification.new do |spec|
   spec.version       = ReformalTurbolinks::VERSION
   spec.authors       = ["Sidelnikov Stanislav"]
   spec.email         = ["stan@eco-nr.ru"]
-  spec.description   = %q{Write a gem description}
-  spec.summary       = %q{Write a gem summary}
-  spec.homepage      = ""
+  spec.description   = %q{This gem adds support for Reformal to use with Rails Turbolinks. When you use the turbolinks and move between pages the Reformal tab will disappear this gem will bring it back.}
+  spec.summary       = %q{This gem adds support for Reformal to use with Rails Turbolinks}
+  spec.homepage      = "https://github.com/ssidelnikov/reformal_turbolinks"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files`.split($/)
