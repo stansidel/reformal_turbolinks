@@ -43,3 +43,7 @@ to your Javascript manifest file (usually application.js).
 ## License
 
 Check LICENSE, MIT.
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/ssidelnikov/reformal_turbolinks/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
