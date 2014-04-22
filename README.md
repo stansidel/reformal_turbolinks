@@ -24,7 +24,7 @@ Or install it yourself as:
 
 Add
 
-    //= require uservoice-turbolinks
+    //= require reformal_turbolinks
 
 to your Javascript manifest file (usually application.js).
 

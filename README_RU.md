@@ -24,7 +24,7 @@
 
 Добавить
 
-    //= require uservoice-turbolinks
+    //= require reformal_turbolinks
 
 в главный JS-файл. Обычно это application.js.
 
